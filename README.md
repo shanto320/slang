@@ -29,7 +29,7 @@ Reserved Word:
 23) signed 
 24) unsigned
 25) $
-26) # -> Macros, define, include (function like macros on compile time JIT)
+26) ## -> Macros, define, include (function like macros on compile time JIT)
 27) //
 28) /*   */
 29) clear
